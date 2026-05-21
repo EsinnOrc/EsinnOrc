@@ -17,14 +17,19 @@
 
  
 
-**About Me!**
-- :zap: I love mathematical algorithms, math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- 👨🏽‍💻 I am currently a Master's Degree software engineering student
-- 🤔 My interest lies in front end web development
-- 👯 I’m looking to collaborate on Web Development Related Projects 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [eoruc369@gmail.com](mailto:eoruc369@gmail.com).
+## About Me!
+
+* 💻 Lecturer & Software Developer passionate about AI, web technologies, and software engineering
+* 🎓 Master's Degree student in Software Engineering
+* 🧠 Interested in Artificial Intelligence, Data Science, Algorithms, and Modern Web Development
+* ⚛️ Mainly working with React, Next.js, Laravel, and full-stack web technologies
+* 🚀 Currently developing academic and real-world AI powered projects
+* 📚 I enjoy continuous learning, research, and producing new ideas every day
+* 👨🏽‍🏫 Teaching in the Artificial Intelligence Operator Program at Bartın University
+* 🤝 Open to collaboration on AI, software, and web development related projects
+* 💬 Ask me about software development, AI, frontend technologies, or academic projects
+* 📫 Reach me at: [eoruc369@gmail.com](mailto:eoruc369@gmail.com)
+
 
 <br />
 
